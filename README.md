@@ -1,2 +1,3 @@
-# ip-theme
-A simple WordPress starter theme used during the preliminary stages of IntegratePress development.
+# IntegratePress
+
+This minimal theme is the temorary default theme for IntegratePress. This shall be used until the frontend framework can be integrated into the platform.
